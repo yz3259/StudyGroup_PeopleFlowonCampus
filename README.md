@@ -1,5 +1,5 @@
 # StudyGroup_PeopleFlowonCampus
-![RAWR](Figures/WebPic.png)
+!(Figures/WebPic.png)
 
 This repository is the model built for the Unlocking Higher Education Study Group. (https://gateway.newton.ac.uk/event/tgmw82)
 
